@@ -84,6 +84,7 @@
     "prettier": "^2.2.1"
   },
   "resolutions": {
+    "gatsby-plugin-robots-txt": "1.5.5",
     "graphql": "^15.0.0"
   },
   "main": "gatsby-browser.js",
