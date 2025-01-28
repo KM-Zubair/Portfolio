@@ -4,10 +4,11 @@ module.exports = {
   siteMetadata: {
     title: 'K M Zubair',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      'ML Software Engineer crafting AI-driven applications with expertise in cloud-native solutions, specializing in LLMs, RAG systems, and scalable architectures using Python, TensorFlow, and Kubernetes',
+    siteUrl: 'https://kmzubair.netlify.app/', // No trailing slash allowed!
+    image: '/og.png',
+    facebookUsername: 'BeingKMZubair',
+    twitterUsername: 'kmzubair_',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
